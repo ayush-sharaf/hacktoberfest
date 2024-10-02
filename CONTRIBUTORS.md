@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+  
+#### Name: [Ayush Kumar Sharaf](https://github.com/ayush-sharaf)
+- Place: Bangalore,India
+- Bio: Web developer proficient in MERN Stack
+- Github: [Ayush Kumar Sharaf](https://github.com/ayush-sharaf)
