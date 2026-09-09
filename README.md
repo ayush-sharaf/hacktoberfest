@@ -1,6 +1,6 @@
 # 🎃 HacktoberFest Starter Project 🎃
 
-** __Oct 24th, 2017 Update:__ THIS REPO IS TEMPORARILY __NOT MERGING NEW PRs__ until the CONTRIBUTORS.md file is sorted! Thanks for your patience! **
+> Historical fork: this repository is retained as an archive and does not provide current Hacktoberfest participation instructions.
 
 Use this project to make your first contribution to an open source project on GitHub. Practice making your first pull request to a public repository before doing the real thing!
 
